@@ -1,13 +1,13 @@
 ## About
-- This repo aims to share code challanges and solutions from codewars
+- This repo aims to share code challanges and solutions from codewars.
 
-## Pre-requisites
-You need to have instaled
+## Prerequisites
+You need to have installed
 - node
 - nodemon
 
-## Available Scripts
+## How to start this?
 
 In the project directory, you can run:
-### cd `folder`
-### `nodemon [file]`
+### cd `[this project folder name]`
+### `nodemon [desired file]`
